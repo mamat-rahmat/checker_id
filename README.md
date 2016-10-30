@@ -23,6 +23,6 @@ To run a script against all po files in a directory
 python checker_id.py /directory/to/transverse
 ```
 
-## Lisence
+## Licence
 
-[LISENCE](LISENCE)
+[LICENSE](LICENSE)
