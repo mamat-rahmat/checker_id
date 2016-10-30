@@ -1,6 +1,6 @@
 # Checker ID
 
-A simple script to check "suspicious" word in Indonesian po translation fileO. Suspicious means it is recognized by KBBI (Kamus Besar Bahasa Indonesia).
+A simple script to check "suspicious" word in Indonesian po translation file. Suspicious means it is unrecognized by KBBI (Kamus Besar Bahasa Indonesia).
 
 ## Details
 
